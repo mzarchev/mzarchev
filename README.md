@@ -1,4 +1,4 @@
-I’m Milan Zarchev 👋, a psychiatry researcher interested in trauma and psychopathology. I mostly use private projects on github, you will openly find most of my projects at the OSF
+I’m Milan 👋, a psychiatry researcher interested in trauma and psychopathology. I mostly use private projects on github, you will find most of my projects publically accessible at the OSF
 
 <!---
 mzarchev/mzarchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
